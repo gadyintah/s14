@@ -1,5 +1,3 @@
-	
-
 	function ibalikAngDagdagan(unangNumero, ikalawangNumero){
 		return unangNumero + ikalawangNumero;
 	}
